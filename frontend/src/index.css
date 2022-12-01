@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
+body {
+  background-image: url('https://static01.nyt.com/images/2017/10/01/business/01skybox1/hotairports-top-jumbo.gif') ;
+  height: auto;
+  padding:0;
+  margin:0;
+
+}
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Noto Sans JP', sans-serif;
+}
