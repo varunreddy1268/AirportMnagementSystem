@@ -1,0 +1,18 @@
+.flight {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #ffffff;
+}
+  
+.flight-airline,
+.flight-source,
+.flight-destination {
+    display: inline;
+    text-align: center;
+}
+  
+.flight h2 {
+    font-size: 1rem;
+    margin: 0 1rem;
+}
